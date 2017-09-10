@@ -1,4 +1,4 @@
-# Regular Grammar induction Using Recurrent Neural Network
+# Inducing Regular Grammars Using Recurrent Neural Networks
 
 Code for training and evaluation of the model from ["Inducing Regular Grammars Using Recurrent Neural Networks"](https://arxiv.org/abs/...).  
 
