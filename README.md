@@ -56,3 +56,5 @@ output_path - path to output graphs and visualisations
 ```
 
 Parameters can be set by changing their value in the config file - config.cfg.
+
+For non Mac OS users, please change all the paths in the code - remove `../` prefix before execution.
