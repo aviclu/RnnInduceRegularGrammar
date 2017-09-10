@@ -1,6 +1,6 @@
 # Regular Grammar induction Using Recurrent Neural Network
 
-Code for training and evaluation of the model from ["Regular Grammar induction Using Recurrent Neural Network"](https://arxiv.org/abs/...).  
+Code for training and evaluation of the model from ["Inducing Regular Grammars Using Recurrent Neural Networks"](https://arxiv.org/abs/...).  
 
 ## Run the program end-to-end
 
